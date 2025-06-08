@@ -1,5 +1,7 @@
 package util;
 
+import model.Employee;
+
 import java.util.Scanner;
 
 public class InputUtil {
@@ -36,4 +38,16 @@ public class InputUtil {
         scanner.nextLine(); // buffer temizlemesi için
         return scanner.nextLine(); // tüm satırı alır
     }
+
+    public static Employee createEmployeeFromInput() {
+        int id = getInt("Enter ID");
+        String name = getString("Enter Name");
+        String surname = getString("Enter Surname");
+        String email = getString("Enter Email");
+        double salary = getDouble("Enter Salary");
+        String department = getString("Enter Department");
+
+        return new Employee(id, name, surname, email, salary, department);
+    }
+
 }
