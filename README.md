@@ -19,23 +19,23 @@ Basit, konsol tabanlı bir personel yönetim uygulaması. Java dilinde, OOP ve k
 
 ### 🔹 Ana Menü
 
-![ANA MENU](images/menu.png)
+![ANA MENU](images/menu.PNG)
 
 ### 🔹 Yeni Personel Ekleme
 
-![YENİ PERSONEL EKLEME](images/add_employee.png)
+![YENİ PERSONEL EKLEME](images/add_employee.PNG)
 
 ### 🔹 Personelleri Listeleme
 
-![PERSONELLERİ LİSTELEME](images/list_employee.png)
+![PERSONELLERİ LİSTELEME](images/list_employee.PNG)
 
 ### 🔹 Maaş Güncelleme
 
-![MAAŞ GÜNCELLEME](images/update_employee.png)
+![MAAŞ GÜNCELLEME](images/update_employee.PNG)
 
 ### 🔹 Silme İşlemi
 
-![PERSONEL SILME](images/delete_employee.png)
+![PERSONEL SILME](images/delete_employee.PNG)
 
 ---
 
