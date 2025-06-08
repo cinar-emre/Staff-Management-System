@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Derleme dosyaları
+/out/
+bin/
+build/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.class
+*.tmp
+*.swp
+*.swo
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# VS Code (eğer kullanılırsa)
+.vscode/
+
+# Kişisel ortam dosyaları
+*.env
+*.bak
